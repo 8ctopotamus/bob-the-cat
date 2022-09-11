@@ -1,0 +1,18 @@
+pwd
+print working directory. shows you current path
+
+ls
+list folders and files in current location
+
+cd
+change directory
+
+mkdir
+make a directory (folder)
+
+touch
+makes file
+
+HTML - content
+CSS - style
+JavaScript - interactivity/programs
