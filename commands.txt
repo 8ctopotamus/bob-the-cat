@@ -16,3 +16,8 @@ makes file
 HTML - content
 CSS - style
 JavaScript - interactivity/programs
+
+Git commands:
+git add .
+git commit -m "some message"
+git push
