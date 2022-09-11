@@ -1,0 +1,16 @@
+/* selector {
+  property-name: value;
+  property-name2: value;
+} */
+
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+  background-image: url(images/paws.png);
+  background-size: 23%;
+}
+
+/* h1 {
+  background-color: 
+  color: turquoise;
+} */
