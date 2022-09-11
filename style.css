@@ -10,7 +10,7 @@ body {
   background-size: 23%;
 }
 
-/* h1 {
-  background-color: 
-  color: turquoise;
-} */
+h1 {
+  background-color: turquoise;
+  color: black;
+}
