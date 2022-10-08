@@ -8,9 +8,21 @@ body {
   color: #FFFFFF;
   background-image: url(images/paws.png);
   background-size: 23%;
+  font-size: 22px;
+  font-family: sans-serif;
 }
 
 h1 {
   background-color: turquoise;
+  text-align: center;
+  margin-top: 0;
+}
+
+#content-wrap {
   color: black;
+  background-color: white;
+  max-width: 500px;
+  padding: 0 30px 30px 30px;
+  border: 8px solid turquoise;
+  margin: 30px auto;
 }
